@@ -23,6 +23,7 @@ Parts listing
   * MC68012RC
   * MC68020RC
   * MC68030FE
+  * MC68030RC
 * Amiga components:
   * A500 side expansion slot
   * A1200 clockport
@@ -30,6 +31,40 @@ Parts listing
   * A1200 ROMs chips
   * A3000/A4000 local bus
 * Compact Flash card connector
-* FTDI FT245RL (USB-to-serial parallel bridge)
-* Xilinx JTAG port
-* Xilinx XC9536XL
+* Analog Devices:
+  * ADG3301
+* Alliance Memory:
+  * AS6C3216
+* Casio:
+  * CSX-325F
+* Digilent:
+  * CHIPKIT CMOD
+  * CMOD S6 
+  * PMOD
+* FTDI:
+  * FT245RL (USB-to-serial parallel bridge)
+* ISSI:
+  * IS61LV256AL
+  * IS66WVE4M16
+* Maxim:
+  * DS1086L
+  * DS1821S+
+* Microchip:
+  * MCP1826S
+  * MCP9801
+* NXP:
+  * PCA9564
+* Spansion:
+  * S29AL008J
+  * S29AL016J
+* ST:
+  * ST2378E
+* Xilinx CPLDs:
+  * XC9536XL-5PCG44C
+  * XC9536XL-5VQG44C
+  * XC9572XL-10VQG64C
+  * XC95144XL-10TQG144C
+  * Xilinx JTAG port
+* Generic components:
+  * Generic crystal-based clock generator
+
