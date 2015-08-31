@@ -29,6 +29,7 @@ Parts listing
   * A1200 Gayle chip
   * A1200 ROMs chips
   * A3000/A4000 local bus
+* NXP 74LVC162245A (16-bit transceiver with direction pin)
 * Compact Flash card connector
 * FTDI FT245RL (USB-to-serial parallel bridge)
 * Xilinx JTAG port
