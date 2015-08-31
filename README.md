@@ -18,19 +18,15 @@ Parts listing
 **Please keep it up-to-date!**
 
 * Motorola processors:
-  * MC68000P
-  * MC68000FN
-  * MC68012RC
-  * MC68020RC
-  * MC68030FE
-  * MC68030RC
+  * [MC68000](http://www.freescale.com/files/32bit/doc/ref_manual/MC68000UM.pdf) : MC68000P, MC68000FN, MC68010P, MC68010FN, MC68012RC
+  * [MC68020](http://www.freescale.com/files/32bit/doc/ref_manual/MC68020UM.pdf) : MC68020
+  * [MC68030](http://www.freescale.com/files/32bit/doc/ref_manual/MC68030UM.pdf) :  MC68030FE, MC68030RC
 * Amiga components:
   * A500 side expansion slot
   * A1200 clockport
   * A1200 Gayle chip
   * A1200 ROMs chips
   * A3000/A4000 local bus
-* NXP 74LVC162245A (16-bit transceiver with direction pin)
 * Compact Flash card connector
 * Analog Devices:
   * ADG3301
@@ -43,10 +39,10 @@ Parts listing
   * CMOD S6 
   * PMOD
 * FTDI:
-  * FT245RL (USB-to-serial parallel bridge)
+  * [FT245RL](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245R.pdf) : USB to parallel FIFO interface
 * ISSI:
-  * IS61LV256AL
-  * IS66WVE4M16
+  * [IS61LV256AL](http://www.issi.com/WW/pdf/61LV256AL.pdf) : 32Kx8 low voltage CMOS Static RAM
+  * [IS66WVE4M16](http://www.issi.com/WW/pdf/66WVE4M16ALL.pdf) : 1.8V core async/page PSRAM
 * Maxim:
   * DS1086L
   * DS1821S+
@@ -54,7 +50,8 @@ Parts listing
   * MCP1826S
   * MCP9801
 * NXP:
-  * PCA9564
+  * [74LVC162245A](http://www.nxp.com/documents/data_sheet/74LVC_LVCH162245A.pdf) : 16-bit transceiver with direction pin
+  * [PCA9564](http://www.nxp.com/documents/data_sheet/PCA9564.pdf) : parallel bus to I2C-bus controller
 * Spansion:
   * S29AL008J
   * S29AL016J
