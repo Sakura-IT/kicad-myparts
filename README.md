@@ -29,7 +29,7 @@ Parts listing
   * A3000/A4000 local bus
 * Compact Flash card connector
 * Analog Devices:
-  * ADG3301
+  * [ADG3301](http://www.analog.com/media/en/technical-documentation/data-sheets/ADG3301.pdf): 1.15 V to 5.5 V, Single-Channel, Bidirectional Logic Level Translator
 * Alliance Memory:
   * AS6C3216
 * Casio:
