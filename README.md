@@ -42,7 +42,7 @@ Parts listing
   * [FT245RL](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245R.pdf) : USB to parallel FIFO interface
 * ISSI:
   * [IS61LV256AL](http://www.issi.com/WW/pdf/61LV256AL.pdf) : 32Kx8 low voltage CMOS Static RAM
-  * [IS66WVE4M16](http://www.issi.com/WW/pdf/66WVE4M16ALL.pdf) : 1.8V core async/page PSRAM
+  * [IS66WVE4M16](http://www.issi.com/WW/pdf/66WVE4M16ALL.pdf) : async/page PSRAM
 * Maxim:
   * DS1086L
   * DS1821S+
