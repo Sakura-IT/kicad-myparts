@@ -27,6 +27,7 @@ Parts listing
   * A1200 Gayle chip
   * A1200 ROMs chips
   * A3000/A4000 local bus
+  * PCMCIA slot as present on A600 and A1200
 * Compact Flash card connector
 * Analog Devices:
   * [AD724](http://www.farnell.com/datasheets/698535.pdf) : RGB to NTSC/PAL Encoder
