@@ -27,6 +27,7 @@ Parts listing
   * A1200 Gayle chip
   * A1200 ROMs chips
   * A3000/A4000 local bus
+  * PCMCIA slot as present on A600 and A1200
 * Compact Flash card connector
 * Analog Devices:
   * [AD724](http://www.farnell.com/datasheets/698535.pdf) : RGB to NTSC/PAL Encoder
@@ -43,7 +44,8 @@ Parts listing
   * [FT245RL](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245R.pdf) : USB to parallel FIFO interface
 * ISSI:
   * [IS61LV256AL](http://www.issi.com/WW/pdf/61LV256AL.pdf) : 32Kx8 low voltage CMOS Static RAM
-  * [IS66WVE4M16](http://www.issi.com/WW/pdf/66WVE4M16ALL.pdf) : async/page PSRAM
+  * [IS66WVE2M16](http://www.issi.com/WW/pdf/66WVE2M16ALL.pdf) : 32 Mbit async/page PSRAM
+  * [IS66WVE4M16](http://www.issi.com/WW/pdf/66WVE4M16ALL.pdf) : 64 Mbit async/page PSRAM
 * Maxim:
   * DS1086L
   * DS1821S+
