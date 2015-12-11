@@ -41,6 +41,7 @@ Parts listing
   * CMOD S6 
   * PMOD
 * FTDI:
+  * [FT2232H](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf) : Dual High Speed USB to Multipurpose UART/FIFO IC
   * [FT245RL](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245R.pdf) : USB to parallel FIFO interface
 * ISSI:
   * [IS61LV256AL](http://www.issi.com/WW/pdf/61LV256AL.pdf) : 32Kx8 low voltage CMOS Static RAM
@@ -49,9 +50,12 @@ Parts listing
 * Maxim:
   * DS1086L
   * DS1821S+
+* Micrel:
+  * [KSZ8041](http://micrel.com/index.php/products/lan-solutions/phys/article/22-ksz8041tl.html) : Physical Layer Transceiver 10/100BASE-T/TX
 * Microchip:
   * [MCP1826S](http://ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf) : 1000 mA, Low-Voltage, Low Quiescent Current LDO Regulator
   * [MCP9801](http://ww1.microchip.com/downloads/en/DeviceDoc/21909d.pdf) : 2-Wire High-Accuracy Temperature Sensor
+  * [PIC32MZ2048ECG144](http://www.microchip.com/wwwproducts/Devices.aspx?product=PIC32MZ2048ECG144) : PIC32MZ Embedded Connectivity Microcontroller
 * NXP:
   * [74LVC162245A](http://www.nxp.com/documents/data_sheet/74LVC_LVCH162245A.pdf) : 16-bit transceiver with direction pin
   * [PCA9564](http://www.nxp.com/documents/data_sheet/PCA9564.pdf) : parallel bus to I2C-bus controller
