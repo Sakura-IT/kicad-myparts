@@ -70,6 +70,8 @@ Parts listing
   * XC9572XL-10VQG64C
   * XC95144XL-10TQG144C
   * Xilinx JTAG port
+* Western Design Center
+  * [W65C02](http://www.westerndesigncenter.com/wdc/documentation/w65c02s.pdf) : 8-bit Microprocessor
 * Generic components:
   * Generic crystal-based clock generator
 
