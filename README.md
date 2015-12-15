@@ -44,7 +44,8 @@ Parts listing
   * [FT2232H](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf) : Dual High Speed USB to Multipurpose UART/FIFO IC
   * [FT245RL](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245R.pdf) : USB to parallel FIFO interface
 * ISSI:
-  * [IS61LV256AL](http://www.issi.com/WW/pdf/61LV256AL.pdf) : 32Kx8 low voltage CMOS Static RAM
+  * [IS61LV256AL](http://www.issi.com/WW/pdf/61LV256AL.pdf) : 32K x 8 low voltage CMOS Static RAM
+  * [IS62WV1288D](http://www.issi.com/WW/pdf/62-65WV1288DALL-BLL.pdf) : 128K x 8 low voltage, ultra low power CMOS Static RAM
   * [IS66WVE2M16](http://www.issi.com/WW/pdf/66WVE2M16ALL.pdf) : 32 Mbit async/page PSRAM
   * [IS66WVE4M16](http://www.issi.com/WW/pdf/66WVE4M16ALL.pdf) : 64 Mbit async/page PSRAM
 * Maxim:
