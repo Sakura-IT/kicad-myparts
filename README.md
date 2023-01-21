@@ -34,6 +34,7 @@ Parts listing
   * [ADG3301](http://www.analog.com/media/en/technical-documentation/data-sheets/ADG3301.pdf) : Low Voltage 1.15 V to 5.5 V, Single-Channel, Bidirectional Logic Level Translator
 * Alliance Memory:
   * AS6C3216
+  * AS6C62256
 * Atari:
   * Atari ST cartridge port
 * Casio:
@@ -62,11 +63,14 @@ Parts listing
 * NXP:
   * [74LVC162245A](http://www.nxp.com/documents/data_sheet/74LVC_LVCH162245A.pdf) : 16-bit transceiver with direction pin
   * [PCA9564](http://www.nxp.com/documents/data_sheet/PCA9564.pdf) : parallel bus to I2C-bus controller
+  * [PCA9665](https://www.nxp.com/docs/en/data-sheet/PCA9665_PCA9665A.pdf) : Fm+ parallel bus to I 2C-bus controller
 * Spansion:
   * S29AL008J
   * S29AL016J
 * ST:
   * ST2378E
+* Texas Instruments:
+  * [16C750E](https://www.ti.com/lit/ds/symlink/tl16c750e.pdf?ts=1674261666382&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTL16C750E) : TL16C750E UART with 128-Byte FIFO 
 * Xilinx CPLDs:
   * XC9536XL-5PCG44C
   * XC9536XL-5VQG44C
