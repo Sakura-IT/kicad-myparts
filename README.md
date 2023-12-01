@@ -54,6 +54,7 @@ Parts listing
 * Maxim:
   * DS1086L
   * DS1821S+
+  * [DS32KHZ](https://www.analog.com/media/en/technical-documentation/data-sheets/ds32khz.pdf) : 32.768kHz Temperature-Compensated Crystal Oscillator
 * Micrel:
   * [KSZ8041](http://micrel.com/index.php/products/lan-solutions/phys/article/22-ksz8041tl.html) : Physical Layer Transceiver 10/100BASE-T/TX
 * Microchip:
